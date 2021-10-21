@@ -1,0 +1,1 @@
+Packet-based shopbot by Zeiris. Do what you want with the source, just gimme some credit for what I wrote.
